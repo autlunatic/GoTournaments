@@ -1,0 +1,4 @@
+First Things To Know
+
+This program is will be a simple webpage to plan a Tournament.
+e.g. a Boccia4Kids tournament.
